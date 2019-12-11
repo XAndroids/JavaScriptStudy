@@ -1,5 +1,5 @@
 {
-  "name": "module-x1024",
+  "name": "module-x1025",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.4"
-  },
-  "gitHead": "1c053d008be71c6f1977c7c2bdd602b4cf657edd"
+    "vuex": "^2.5.0"
+  }
 }
